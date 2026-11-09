@@ -1,4 +1,6 @@
 .vscode/
+.DS_Store
 **/.venv/
 **/pycache_/
 **/.ipynb_chechpoints/
+**/data/
